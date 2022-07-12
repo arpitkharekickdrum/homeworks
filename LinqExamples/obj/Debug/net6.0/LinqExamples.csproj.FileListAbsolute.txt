@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\bin\Debug\net6.0\LinqExamples.exe
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\bin\Debug\net6.0\LinqExamples.deps.json
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\bin\Debug\net6.0\LinqExamples.runtimeconfig.json
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\bin\Debug\net6.0\LinqExamples.dll
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\bin\Debug\net6.0\LinqExamples.pdb
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\obj\Debug\net6.0\LinqExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\obj\Debug\net6.0\LinqExamples.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\obj\Debug\net6.0\LinqExamples.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\obj\Debug\net6.0\LinqExamples.dll
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\obj\Debug\net6.0\refint\LinqExamples.dll
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\obj\Debug\net6.0\LinqExamples.pdb
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\obj\Debug\net6.0\LinqExamples.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Myhomeworks\LinqExamples\obj\Debug\net6.0\ref\LinqExamples.dll
